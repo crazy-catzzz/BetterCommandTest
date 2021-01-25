@@ -1,0 +1,23 @@
+{
+  "name": "pongbot",
+  "version": "1.0.0",
+  "description": "Command test bot",
+  "main": "bot.js",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "nodejs": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "12.x",
+    "npm": "*"
+  },
+  "author": "CrazyCatzz aka miao704g",
+  "license": "ISC"
+}
